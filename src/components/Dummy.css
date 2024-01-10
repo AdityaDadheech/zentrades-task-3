@@ -1,0 +1,15 @@
+.card{
+    max-width: 400px;
+    float: left;
+    margin: 20px;
+    width: 280px;
+}
+
+
+.col-md-1{
+    background-color: antiquewhite;
+}
+
+.first{
+    margin-left: 30px;
+}
